@@ -1,4 +1,9 @@
-<h1 align="center"> bigeez</h1>
+<h1 align="center"> ███████╗███████╗███████╗
+██╔════╝██╔════╝    ███╔╝
+█████╗  █████╗     ███╔╝ 
+██╔══╝  ██╔══╝    ███╔╝  
+███████╗███████╗ ███████╗
+╚══════╝╚══════╝ ╚══════╝</h1>
 
 <p align="center">
   <b>Web3 Developer × Open Source Contributor</b>
